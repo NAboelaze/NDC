@@ -1,0 +1,16 @@
+
+{
+  "branchName": "",
+  "address": "GIZA",
+   "postOfficeBox" : "",
+  "PhoneNo": "",
+  "branchEmail": "",
+  "branchPassword": "test@123456",
+  "branchContactName": "",
+  "branchContactEmail" : "",
+  "branchPhone":  "",
+  "creditLimit" : 50000,
+  "topUpLimit" : 500000,
+  "creditDays": 1
+
+}
