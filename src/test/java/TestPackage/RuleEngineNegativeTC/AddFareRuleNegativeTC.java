@@ -13,7 +13,7 @@ public class AddFareRuleNegativeTC extends TCBase {
     DashboardPage dashObj;
 
     AddFareRuleMasterPage fareRuleObj;
-    String chargeName = "rule 3";
+    String chargeName = "rul";
     String supplierName = "Amadeus";
     String airline = "Cale";
     String countryFrom = "Angola";
